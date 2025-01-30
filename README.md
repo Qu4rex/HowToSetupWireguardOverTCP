@@ -84,7 +84,7 @@ AllowedIPs = 0.0.0.0/0
    
    192.168.168.17:9000 - адрес на который будут отправляться TCP пакеты
 
-   - Перенастроим конфиг Wireguard для клиента /etc/wireguard/wg0.conf
+ - Перенастроим конфиг Wireguard для клиента /etc/wireguard/wg0.conf
   ```
   Endpoint = 127.0.0.1:51821
   ```
